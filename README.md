@@ -1,7 +1,7 @@
 # 🚀 Frontend Development Recap Roadmap (React & Next.js) – 50 Days
 
 ## 📌 Overview
-This roadmap is designed to help you efficiently review and reinforce your frontend development skills using React and Next.js within 50 days. It balances theory, hands-on coding, and real-world projects to ensure you are job-ready.
+With just three months left before I complete my military service, I am dedicating the next 50 days to sharpening my frontend development skills and preparing myself for the software job market. This roadmap outlines my structured approach to reviewing React and Next.js, reinforcing key concepts, and building real-world projects to ensure I am job-ready as soon as I transition into the tech industry.
 
 ---
 
